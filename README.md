@@ -11,3 +11,8 @@ it fixes YouTube issues in vrchat. (https://github.com/ytdl-org/youtube-dl/pull/
 if the problem is resolved, use the youtube-dl official binary. (http://yt-dl.org)
 
 thank you.
+
+## how to use
+
+1. Download [youtube-dl.exe](https://github.com/pypy-vrc/youtube-dl-pypy/raw/master/youtube-dl.exe) from this repository
+2. Copy (overwrite) to C:/Program Files (x86)/Steam/steamapps/common/VRChat/VRChat_Data/StreamingAssets
