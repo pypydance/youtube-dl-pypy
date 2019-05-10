@@ -6,7 +6,7 @@ this is an unofficial youtube-dl binary based on 2019.04.30.
 
 due to warning message of youtube-dl, vrchat can not play video properly.
 
-it fixes YouTube issues in vrchat. (https://github.com/ytdl-org/youtube-dl/pull/21003)
+it fixes YouTube issues in vrchat.
 
 if the problem is resolved, use the youtube-dl official binary. (http://yt-dl.org)
 
@@ -18,5 +18,6 @@ thank you.
 2. Copy (overwrite) to C:/Program Files (x86)/Steam/steamapps/common/VRChat/VRChat_Data/StreamingAssets
 
 ## update history
-0. fix channel id extraction (2019.05.08)
-0. fix sig parameter (2019.05.10)
+
+1. fix channel id extraction (2019.05.08) https://github.com/ytdl-org/youtube-dl/pull/21003
+2. fix sig parameter (2019.05.10) https://github.com/ytdl-org/youtube-dl/pull/21039
