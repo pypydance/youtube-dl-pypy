@@ -16,3 +16,7 @@ thank you.
 
 1. Download [youtube-dl.exe](https://github.com/pypy-vrc/youtube-dl-pypy/raw/master/youtube-dl.exe) from this repository
 2. Copy (overwrite) to C:/Program Files (x86)/Steam/steamapps/common/VRChat/VRChat_Data/StreamingAssets
+
+## update history
+0. fix channel id extraction (2019.05.08)
+0. fix sig parameter (2019.05.10)
