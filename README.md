@@ -4,7 +4,7 @@
 
 this is an unofficial youtube-dl binary based on 2019.04.30.
 
-due to warning message of youtube-dl, vrchat can not play video properly.
+because youtube-dl is broken, vrchat can not play video properly.
 
 it fixes YouTube issues in vrchat.
 
@@ -20,4 +20,6 @@ thank you.
 ## update history
 
 1. fix channel id extraction (2019.05.08) https://github.com/ytdl-org/youtube-dl/pull/21003
+    - it removes warning message
 2. fix sig parameter (2019.05.10) https://github.com/ytdl-org/youtube-dl/pull/21039
+    - it fixes black screen (or looping at start)
