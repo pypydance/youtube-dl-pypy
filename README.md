@@ -1,8 +1,9 @@
 # youtube-dl-pypy
 
-![err](https://user-images.githubusercontent.com/25771678/57368685-b70c2300-71c6-11e9-99f8-cdae166bb72a.png)
+![image](https://user-images.githubusercontent.com/25771678/59927326-2ab47780-9477-11e9-8e34-e93994b64ae0.png)
+![image](https://user-images.githubusercontent.com/25771678/59927334-2e47fe80-9477-11e9-9417-863f34976aa6.png)
 
-this is an unofficial youtube-dl binary based on 2019.04.30.
+this is an unofficial youtube-dl binary based on SoneeJohn's patch (https://github.com/ytdl-org/youtube-dl/pull/21476).
 
 because youtube-dl is broken, vrchat can not play video properly.
 
@@ -15,11 +16,4 @@ thank you.
 ## how to use
 
 1. Download [youtube-dl.exe](https://github.com/pypy-vrc/youtube-dl-pypy/raw/master/youtube-dl.exe) from this repository
-2. Copy (overwrite) to C:/Program Files (x86)/Steam/steamapps/common/VRChat/VRChat_Data/StreamingAssets
-
-## update history
-
-1. fix channel id extraction (2019.05.08) https://github.com/ytdl-org/youtube-dl/pull/21003
-    - it removes warning message
-2. fix sig parameter (2019.05.10) https://github.com/ytdl-org/youtube-dl/pull/21039
-    - it fixes black screen (or looping at start)
+2. Copy (overwrite) to C:/Program Files (x86)/Steam/steamapps/common/VRChat/VRChat_Data/StreamingAsset
